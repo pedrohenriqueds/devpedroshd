@@ -1,7 +1,7 @@
-### Olá, meu nome é Pedro Henrique e tenho 20 anos.
+### Hi, I am Pedro Henrique and am Junior Developer Node.js.
 
 
-- 📖 Atualmente estou estudando HTML, CSS e JavaScript
+
 <div align="center">
   <a href="https://github.com/devpedroshd">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devpedroshd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
