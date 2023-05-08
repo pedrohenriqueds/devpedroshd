@@ -1,4 +1,4 @@
-### Hi, I am Pedro Henrique and am Junior Developer Node.js.
+### Hi, I am Pedro Henrique and am Junior Developer.
 
 
 
